@@ -1,0 +1,16 @@
+package launchBrowser;
+
+public class GitTest1 {
+
+		public static void main(String[] args) {
+			System.out.println("git test");
+			printMe();
+		}
+		public static void printMe() {
+			System.out.println("hello world");
+			System.out.println("heller");
+			System.out.println("git test 1");
+			
+			
+		}
+}
